@@ -16,5 +16,5 @@ Whoever wants to get a reservation at a restaurant of their choosing.
 Web app where you can select a restaurant and timing(s) of when you want to go. Resy Bot will then wait for the reservation to be open and snipe it instantly, then will email or send a text message regarding the reservation. 
 
 ### Scope
-Project is reasonable for 4-6 people as the front-end is intuitive and the backend logic should be challenging enough to take time, while it does not seem to be too challenging (same idea as implementing a sneaker bot, which does not seem too difficult).
+Project is reasonable for 4-6 people as the front-end is intuitive (simply inputting a restaurant's resy link) and the backend logic should be challenging enough to take time (we would need to constantly monitor active/open user requests), while it does not seem to be too challenging (same idea as implementing a sneaker bot, which does not seem too difficult).
 
