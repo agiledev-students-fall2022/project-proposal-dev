@@ -2,7 +2,7 @@
 # Project Proposal
 
 ## Collaborators
-Aditya Pradeep, Rayhan Ahmed
+Aditya Pradeep, Rayhan Ahmed, Ahmad Almesned
 
 ## Project Title: Resy Bot
 
